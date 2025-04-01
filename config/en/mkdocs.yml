@@ -23,7 +23,7 @@ extra:                                              # Language Selection
 
     # Switch to Turkish
     - name: Turkish
-      link: /tr/
+      link: https://muratkendir.github.io/supportdemocracy/tr/
       lang: tr
 
     # Switch to German
