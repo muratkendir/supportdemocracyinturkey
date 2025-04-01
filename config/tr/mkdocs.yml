@@ -1,6 +1,7 @@
 site_name: 'Support Democracy'
 docs_dir: '../../docs/tr'                           # Where to find the English markdown files
 site_dir: '../../generated/tr'                      # Where to put the English HTML files
+site_url: 'https://muratkendir.github.io/supportdemocracy/tr/'
 
 theme:
     name: material
