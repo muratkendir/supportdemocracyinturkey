@@ -1,16 +1,16 @@
-# Apoyar la democracia en Turquía con el boicot
+# Apoye la democracia en Turquía con el boicot
 
-## ¿Qué pasó en Turquía el 25 de marzo?
+## ¿Qué ocurrió en Turquía el 20 de marzo de 2025?
 
-[¡Protestas en Turquía el 25 de marzo](./assets/running_pikachu.jpeg){: width=300 style=«float:right; padding:10px»} 
+[!Protestas en Turquía el 20 de marzo de 2025](./assets/running_pikachu.jpeg)
 
-- Ekrem Imamoglu, considerado el principal rival político del presidente Recep Tayyip Erdogan y alcalde de la metrópolis de Estambul, de 16 millones de habitantes, ha sido detenido acusado de corrupción y de afiliaciones terroristas, después de que se cuestionara su título. 
+- Ekrem Imamoglu, considerado el principal rival político del presidente Recep Tayyip Erdogan y alcalde de la metrópolis de Estambul, de 16 millones de habitantes, ha sido detenido acusado de corrupción y de afiliaciones terroristas, después de que se cuestionara su diploma. 
 - Más de 2000 ciudadanos turcos, en su mayoría jóvenes universitarios, fueron detenidos. 
-- Algunos estudiantes y opositores han sido detenidos en redadas nocturnas en sus hogares y hay más de 300 detenidos en total. 
+- Algunos estudiantes y opositores han sido detenidos en redadas nocturnas en sus hogares y hay más de 300 personas detenidas en total. 
 - En respuesta a estos acontecimientos, se lanzó un movimiento de boicot para apoyar el movimiento callejero. 
 - Este movimiento se dirige principalmente a empresas conocidas por sus estrechos vínculos con el gobierno y, por tanto, con Erdogan.
 
-Puedes apoyar este movimiento obteniendo información sobre las empresas que se enumeran a continuación y boicoteándolas. 
+Puedes apoyar este movimiento informándote sobre las empresas que se enumeran a continuación y boicoteándolas. 
 
 [*Protestas turcas 2025 de marzo, Wikipedia*](https://en.wikipedia.org/wiki/2025_Turkish_protests)
 
@@ -91,7 +91,7 @@ Puedes apoyar este movimiento obteniendo información sobre las empresas que se 
 | 🇬🇪 | Tiflis |
 | 🇦🇿 | Bakú |
 | 🇧🇬 | Haskovo |
-| 🇺🇿 | Tashkent |
+| 🇺🇿 | Taskent |
 
 ### Hostelería y turismo
 

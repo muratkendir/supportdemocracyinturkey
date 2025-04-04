@@ -2,17 +2,17 @@
 
 ## Was ist im März 2025 in der Türkei passiert?
 
-![Turkey Protests 2025 March](./assets/running_pikachu.jpeg){: width=300 style="float:right; padding:10px"} 
+![Proteste in der Türkei im März 2025](./assets/running_pikachu.jpeg)
 
-- Ekrem Imamoglu, der als wichtigster politischer Rivale von Präsident Recep Tayyip Erdogan gilt und Bürgermeister der 16-Millionen-Metropole Istanbul ist, wurde wegen Korruptionsvorwürfen und Verbindungen zum Terrorismus verhaftet, nachdem sein Diplom in Frage gestellt wurde. 
+- Ekrem İmamoğlu, der als wichtigster politischer Rivale von Präsident Recep Tayyip Erdoğan gilt und Bürgermeister der 16-Millionen-Metropole Istanbul ist, wurde wegen Korruptionsvorwürfen und Verbindungen zum Terrorismus verhaftet, nachdem sein Diplom in Frage gestellt wurde. 
 - Mehr als 2000 türkische Staatsbürger, hauptsächlich junge Universitätsstudenten, wurden festgenommen. 
-- Einige Studenten und Oppositionelle wurden bei nächtlichen Razzien in ihren Häusern festgenommen, insgesamt gibt es mehr als 300 Festnahmen. 
+- Einige Studenten und Oppositionelle wurden bei nächtlichen Razzien in ihren Häusern festgenommen, insgesamt wurden mehr als 300 Personen festgenommen. 
 - Als Reaktion auf diese Entwicklungen wurde eine Boykottbewegung ins Leben gerufen, um die Straßenbewegung zu unterstützen. 
 - Diese Bewegung zielt in erster Linie auf Unternehmen ab, die für ihre engen Beziehungen zur Regierung und damit zu Erdogan bekannt sind.
 
-Sie können diese Bewegung unterstützen, indem Sie sich über die unten aufgeführten Unternehmen informieren und diese boykottieren. 
+Sie können diese Bewegung unterstützen, indem Sie sich über die unten aufgeführten Unternehmen informieren und sie boykottieren. 
 
-[Proteste in der Türkei 2025 März, Wikipedia](https://en.wikipedia.org/wiki/2025_Turkish_protests)
+[*Türkische Proteste 2025 März, Wikipedia*](https://en.wikipedia.org/wiki/2025_Turkish_protests)
 
 ## Welche Unternehmen sollten boykottiert werden?
 
@@ -20,13 +20,13 @@ Sie können diese Bewegung unterstützen, indem Sie sich über die unten aufgef�
 
 #### EspressoLab
 
+[EspressoLab Community Notes](https://boykot.web.tr/detail.php?id=65&type=marka&tab=info)
+
 | Land | Provinz/Stadt |
 | - | - |
 | 🇩🇪 | Nürnberg |
 | 🇽🇰 | Kosovo |
 | 🇪🇬 | Kairo |
-
-[EspressoLab Community Notes](https://boykot.web.tr/detail.php?id=65&type=marka&tab=info)
 
 #### MADO
 
@@ -38,7 +38,7 @@ Sie können diese Bewegung unterstützen, indem Sie sich über die unten aufgef�
 | 🇪🇬 | Kairo |
 | 🇸🇦 | Mekka |
 | 🇨🇳 | Guangzhou |
-| 🇦🇿 | Bakü |
+| 🇦🇿 | Baku |
 | 🇳🇱 | Rotterdam |
 | 🇳🇱 | Den Haag |
 | 🇮🇶 | Erbil |
@@ -64,19 +64,23 @@ Sie können diese Bewegung unterstützen, indem Sie sich über die unten aufgef�
 
 #### Ulker
 
-- [Ülker / McVities / Godiva Community Notes](https://boykot.web.tr/detail?id=67&type=marka)
+- [Ülker / McVities / Godiva Community Notes] (https://boykot.web.tr/detail?id=67&type=marka)
 
 ### Gesundheits- und medizinische Dienste
 
-| Medipol Global
+#### Medipol Global
+
+- [Medipol Hastaneleri Community Notes] (https://boykot.web.tr/detail?id=31345&type=marka)
 
 | Land | Provinz/Stadt |
 | - | - |
 | 🇹🇷 | Istanbul |
 
-- [Medipol Hastaneleri Community Notes](https://boykot.web.tr/detail?id=31345&type=marka)
+
 
 #### Dunyagoz Hospital
+
+- [Dunyagoz Hospital Community Notes](https://boykot.web.tr/detail.php?id=31575&type=marka&tab=notes)
 
 | Land | Provinz/Stadt |
 | - | - |
@@ -86,30 +90,28 @@ Sie können diese Bewegung unterstützen, indem Sie sich über die unten aufgef�
 | 🇩🇪 | Frankfurt |
 | 🇬🇪 | Tiflis |
 | 🇦🇿 | Baku |
-| 🇧🇬 | Haskovo |
+| 🇧🇬 | Haskowo |
 | 🇺🇿 | Taschkent |
-
-- [Dunyagoz Hospital Community Notes] (https://boykot.web.tr/detail.php?id=31575&type=marka&tab=notes)
 
 ### Gastgewerbe und Tourismus
 
 #### Kemer Country Hotel
 
+[Kemer Country Hotel (by Demirören) Community Notes](https://boykot.web.tr/detail?id=31149&type=marka)
+
 | Land | Provinz/Stadt |
 | - | - |
 | 🇹🇷 | Antalya |
 
-[Kemer Country Hotel (by Demirören) Community Notes](https://boykot.web.tr/detail?id=31149&type=marka)
-
 #### Caja Maxx Royal
+
+- [Caja Maxx Royal Community Notes](https://boykot.web.tr/detail?id=31920&type=marka)
 
 | Land | Provinz/Stadt |
 | - | - |
 | 🇹🇷 | Belek |
 | 🇹🇷 | Kemer |
 | 🇹🇷 | Bodrum |
-
-- [Caja Maxx Royal Community Notes](https://boykot.web.tr/detail?id=31920&type=marka)
 
 #### ETSTur
 
