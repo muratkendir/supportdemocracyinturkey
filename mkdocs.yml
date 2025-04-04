@@ -1,6 +1,6 @@
 site_name: Support Democracy in Turkey
-site_url: https://CHANGE_HERE
-repo_url: https://CHANGE_HERE
+site_url: https://muratkendir.github.io/supportdemocracyinturkey
+repo_url: https://github.com/muratkendir/supportdemocracyinturkey
 
 docs_dir: docs/
 exclude_docs: overrides/
