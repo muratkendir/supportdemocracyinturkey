@@ -1,0 +1,122 @@
+site_name: Support Democracy in Turkey
+site_url: https://CHANGE_HERE
+repo_url: https://CHANGE_HERE
+
+docs_dir: docs/
+exclude_docs: overrides/
+
+theme:
+  name: material
+  font: false
+  custom_dir: docs/overrides
+  logo:
+    assets/logo.png
+  palette:
+    primary: blue
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - toc.follow
+    - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ultrabug/mkdocs-static-i18n
+      name: Support-Democracy-in-Turkey on Github
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          site_name: "Support Democracy in Turkey (en)"
+        - locale: fr
+          name: Français
+          build: true
+          site_name: "Soutenez la démocratie en Turquie (fr)"
+          theme:
+            palette:
+              primary: red
+          nav_translations:
+            Home: Accueil
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: "Unterstützen Sie die Demokratie in der Türkei mit Boykott (de)"
+          theme:
+            palette:
+              primary: black
+          nav_translations:
+            Home: Startseite
+        - locale: es
+          name: Español
+          build: true
+          site_name: "Apoyar la democracia en Turquía con el boicot (es)"
+          theme:
+            palette:
+              primary: green
+          nav_translations:
+            Home: "Página de inicio"
+        - locale: ar
+          name: "اللغة العربية"
+          build: true
+          site_name: "دعم الديمقراطية في تركيا (ar)"
+          theme:
+            palette:
+              primary: purple
+          nav_translations:
+            Home: "الصفحة الرئيسية"
+        - locale: ru
+          name: Pоссия
+          build: true
+          site_name: "Поддержите демократию в Турции бойкотом (ru)"
+          theme:
+            palette:
+              primary: blue
+          nav_translations:
+            Home: "Домашняя страница"
+        - locale: zh
+          name: "中文"
+          build: true
+          site_name: "支持土耳其民主，抵制 (zh)"
+          theme:
+            palette:
+              primary: red
+          nav_translations:
+            Home: "首页"
+        - locale: tr
+          name: "Türkçe"
+          build: true
+          site_name: "Boykotla Türkiye'de Demokrasiyi Destekleyin (tr)"
+          theme:
+            palette:
+              primary: red
+          nav_translations:
+            Home: Anasayfa
